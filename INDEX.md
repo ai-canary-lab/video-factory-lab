@@ -24,12 +24,12 @@
 | `02-consistency-techniques.md` | 角色/场景/风格一致性技术 | ✅ 2026-09-29 |
 | `03-comic-drama-pipeline.md` | AI 漫剧生产流水线 | ✅ 2026-09-29 |
 | `04-marketing-video-pipeline.md` | AI 产品营销视频流水线 | ✅ 2026-09-29 |
-| `05-sekoai-overman.md` | SekoAI 与《无敌超人》28 分钟长片拆解 | 🔄 调研中 |
-| `06-hypit.md` | hypit 一键复制爆款视频 | 🔄 调研中 |
+| `05-sekoai-overman.md` | SekoAI 与《无敌超人》长片拆解 | ✅ 2026-09-29 |
+| `06-hypit.md` | hypit 一键复制爆款视频 | ✅ 2026-09-29 |
 
 ## 案例拆解 `docs/cases/`
 
-- （待建：Overman 等标杆案例的结构化拆解，做成可复用的"剧本模板"）
+- `overman.md` — 《无敌超人》Overman：B站 28 分钟级 AI 长片标杆拆解（工具链/资产先行/转场 QC）
 
 ## Prompt 模板 `prompts/templates/`
 
