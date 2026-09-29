@@ -1,0 +1,20 @@
+# Python / Node / OS
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+
+# Secrets — never commit
+.env
+*.pem
+*.key
+
+# Large media — not in git (use releases / object storage)
+assets/raw/
+assets/renders/
+*.mp4
+*.mov
+!assets/**/.gitkeep
+
+# Run logs (local only)
+runs/
