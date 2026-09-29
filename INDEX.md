@@ -26,6 +26,15 @@
 | `04-marketing-video-pipeline.md` | AI 产品营销视频流水线 | ✅ 2026-09-29 |
 | `05-sekoai-overman.md` | SekoAI 与《无敌超人》长片拆解 | ✅ 2026-09-29 |
 | `06-hypit.md` | hypit 一键复制爆款视频 | ✅ 2026-09-29 |
+| `07-opensource-video-pipeline-survey.md` | 开源 AI 视频管线全景扫描（15 项目） | ✅ 2026-09-29 |
+| `08-pipeline-design-patterns.md` | 架构深挖：8 条可直接抄的设计模式 | ✅ 2026-09-29 |
+| `09-agent-skill-pipelines.md` | Agent Skill 流水线专项（12 项目） | ✅ 2026-09-29 |
+
+## 管线设计 `docs/pipeline/`
+
+| 文件 | 内容 |
+|---|---|
+| `ir-spec.md` | 双层 JSON 中间表示 + runs 三账本（v0.1 草案） |
 
 ## 案例拆解 `docs/cases/`
 

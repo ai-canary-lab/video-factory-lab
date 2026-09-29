@@ -9,6 +9,7 @@
 | `concat.py` | 按 EDL 拼接 clips（ffmpeg），统一分辨率/帧率 |
 | `subtitle.py` | 配音稿 → TTS → 字幕轴对齐 |
 | `shots_schema.json` | 分镜表 JSON Schema（`shot-prompt.template.md` 的机器版） |
+| `scripts/gate_check.py` | 门禁机检脚本：`--phase N --project <项目>`，校验 `[自动]` 项并报错给原因（规划中） |
 | `timeline.py` | 词锚定时间轴中间表示（借鉴 hypit SVML 思想：事件锚定在词而非秒上，改词自动重排；调研阶段） |
 
 约定：

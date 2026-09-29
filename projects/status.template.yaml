@@ -1,0 +1,16 @@
+# projects/<项目>/status.yaml —— 阶段状态模板
+
+# 机器可读的阶段状态：agent 每次开工先读它，多会话/长流程断点续做靠它。
+# 复制为 projects/<项目名>/status.yaml 后使用。
+
+project: ""                 # 项目名
+phase: 0                    # 当前 SOP 阶段（0-7）
+frozen:                     # 各阶段冻结版本
+  brief: ""
+  script: ""
+  characters: ""
+  scenes: ""
+  shots: ""
+pending_user: []            # 待用户确认事项，如 ["Phase 4 灰样评审"]
+last_run: ""                # 上次 runs/<timestamp> 目录
+updated_at: ""              # YYYY-MM-DD

@@ -27,6 +27,17 @@ reference_images:
   - assets/characters/CHAR_001_side.png
 negative_prompt: "changing clothes, changing hairstyle, extra limbs, deformed face"
 
+# --- Continuity locks (LOCK-*) ---
+# One sentence per lock, BILINGUAL. Copy VERBATIM into every generation prompt.
+# gate_check.py verifies each shot prompt contains all locks of its characters.
+continuity_locks:
+  - id: LOCK-FACE
+    zh: "圆脸，左眉上有一颗小痣"
+    en: "round face, small mole above the left eyebrow"
+  - id: LOCK-OUTFIT
+    zh: "藏青色立领长袍，腰间束白色布带"
+    en: "dark-blue mandarin-collar robe, white cloth belt at the waist"
+
 # --- Versioning ---
 version: v1.0
 frozen_by: ""
