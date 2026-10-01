@@ -3,6 +3,16 @@
 > 本仓库是**面向 agent** 的：用户提供创意，agent 全权执行。
 > 用户永远只做两件事：**给创意**、**做确认**。其余一切都是 agent 的活。
 
+## 产品线
+
+本仓库支持三条产品线：
+
+1. **漫剧线**：连载式 AI 漫剧（见 `docs/research/03-comic-drama-pipeline.md`）。
+2. **营销视频线**：产品营销短视频（见 `docs/research/04-marketing-video-pipeline.md`）。
+3. **爆款复刻线**：选当前短视频平台爆款 → 拉片拆解 → 卡通形象替换角色 → 重生成。
+   入口 SOP：`docs/pipeline/viral-reskin-sop.md`；爆款情报源：`docs/research/10-viral-trend-sources.md`。
+   复刻只复刻"套路/结构/笑点类型"，不照搬受版权保护的角色、音乐、台词。
+
 ## 阶段地图
 
 ```

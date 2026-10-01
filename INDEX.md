@@ -29,12 +29,14 @@
 | `07-opensource-video-pipeline-survey.md` | 开源 AI 视频管线全景扫描（15 项目） | ✅ 2026-09-29 |
 | `08-pipeline-design-patterns.md` | 架构深挖：8 条可直接抄的设计模式 | ✅ 2026-09-29 |
 | `09-agent-skill-pipelines.md` | Agent Skill 流水线专项（12 项目） | ✅ 2026-09-29 |
+| `10-viral-trend-sources.md` | 爆款情报源：官方榜单 + 第三方数据平台 | ✅ 2026-10-01 |
 
 ## 管线设计 `docs/pipeline/`
 
 | 文件 | 内容 |
 |---|---|
 | `ir-spec.md` | 双层 JSON 中间表示 + runs 三账本（v0.1 草案） |
+| `viral-reskin-sop.md` | 爆款复刻标准工作流：选爆款 → 拉片 → 角色替换 → 重生成 → 交付（含合规红线） |
 
 ## 案例拆解 `docs/cases/`
 
