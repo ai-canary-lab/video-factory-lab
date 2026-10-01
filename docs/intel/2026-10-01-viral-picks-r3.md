@@ -1,0 +1,95 @@
+# 爆款情报 · 第三轮（2026-10-01）
+
+> 本轮口径：① 数据门槛收紧——入选须播放 ≥100 万（或点赞 ≥10 万），且播放/粉丝 ≥5；<10 万播放只进"潜力观察"；② 换皮主角统一为**肥柴**（圆滚滚柴犬卡通：豆豆眼、飞机耳、蚊香卷尾、红围巾）；③ D1 改为"角色可替换性"，2 分优先，真人情景短剧/一人分饰多角/POV 剧情是主战场。
+> 评分维度：D1 角色可替换性 / D2 结构可复制性 / D3 时长适配（15–60s=2，60–90s=1，>90s=0）/ D4 爆款强度 / D5 模仿扩散。每项 0–2，总分 10。
+
+## 扫描来源（2026-10-01 当天）
+
+| 来源 | 覆盖 | 备注 |
+|---|---|---|
+| B 站实时热门 API（`x/web-interface/popular`） | B 站全站 | 官方接口，播放/点赞数为页面级真实数据 |
+| B 站 UP 主空间 API（大乾乾是顾乾宇 mid=359844033，order=click） | B 站 | 系列作品历史播放量佐证 |
+| virlo.ai《What's Trending on TikTok in September 2026》（2026-09-28 更新） | TikTok 全球 | 引用 SocialPilot 9.10–24、SocialBee 9.23、New Engen 9.21、HeyOrca 9.25 等第三方报告 |
+| SocialPilot TikTok 趋势报告（9.10–24 窗口） | TikTok 全球 | 经 virlo.ai 转引 |
+| thetab.com（2026-07-02） | TikTok 全球 | bob 趋势起源报道，含原视频直链 |
+| USA Today（2026-08-14） | IG/TT/YouTube | Abigail's Divine Comedy 专题报道 |
+| TechnoSports（2026-09-12/13） | Instagram Reels | Reels 日榜播放量 |
+
+---
+
+## 入选清单（6 个，均过数据门槛）
+
+### 1. @jocelynmeiere —— "reasons to get a bob"（TikTok）⭐ 本轮最高分
+
+- **链接**：https://www.tiktok.com/@jocelynmeiere/video/7647959478297693442（原视频，链接来自 thetab 报道原文；续作：https://www.tiktok.com/@jocelynmeiere/video/7656890735513505046）
+- **数据**：近 1800 万播放（thetab 2026-07-02："viewed nearly 18 million times"；SocialPilot 9.10–24 窗口经 virlo.ai 9.28 确认仍在跑）；粉丝 240 万 → 播放/粉丝 ≈ 7.5（≥5，破圈成立）
+- **内容**：屏幕文字 "reasons to get a bob"，四条编号理由全是 "bob"，配 Fat Papi《FREAKED OUT》卡点，面无表情 + 肢体喜剧。2026 年 6 月起源，9 月仍在流行。
+- **打分**：D1=2（纯机制笑话，死鱼脸列表与身份无关）/ D2=2（音频 + 四段式列表模板，newengen 已给出完整复刻教程）/ D3=2（短视频）/ D4=2 / D5=2（大量模仿，"Diva Bob" 账号成趋势代言人）= **10**
+- **换皮角度**：肥柴版《养柴的理由》——屏幕文字 "reasons to 养柴"，四条理由全是"柴"，肥柴面无表情随鼓点掏骨头/甩蚊香尾/飞机耳抖动，一镜式肢体喜剧。
+
+### 2. 《学以乱用》（B 站，UP 主：王七叶-）
+
+- **链接**：https://www.bilibili.com/video/BV1yJaH6DEV1/（链接来自 B 站热门 API + 已打开页面验证）
+- **数据**：268.8 万播放 / 16.3 万点赞（页面显示，发布 2026-09-30，全站排行榜最高第 40 名，一天内爆发）
+- **内容**：79 秒搞笑演绎类短片，"把学到的东西用错地方"式荒诞小品；标签：搞笑/模仿/演绎。该作者同系列多支作品 300–800 万播放（《躲闪摇究极进化闪身步》829.1 万，见本视频页相关推荐区）。
+- **打分**：D1=2（一人分饰功能型角色）/ D2=2（系列小品模板：设错位场景 → 一本正经演绎 → 荒诞收尾）/ D3=1（79s）/ D4=2 / D5=1（系列化强，求同款评论未核实）= **8**
+- **换皮角度**：肥柴一人分饰"学以乱用"——如"闻鸡起舞"演成闻到鸡腿原地起舞，"纸上谈兵"演成在纸上排兵布阵，真人演绎全部替换为肥柴多角分饰。
+
+### 3. Abigail's Divine Comedy（YouTube / IG / TikTok，真人情景短剧系列）
+
+- **链接**：S1E1《Goody Gone Bad》https://www.youtube.com/watch?v=xGXrCr-ewr4（链接来自搜索结果原文，已打开验证为真实剧集页；Shorts 切片如 https://www.youtube.com/shorts/JeWje74X1ok）
+- **数据**：Abigail Williams 相关视频 Instagram 累计 2700 万 + TikTok 1400 万播放（USA Today 2026-08-14 专题报道）；原版小品单条 150 万 TikTok。单集独立播放量页面未显示，标"单集数据待验证"。
+- **内容**：Joe Hegyes 一人分饰女巫审判风三人组（Abigail / Ruth Putnam / Goody Proctor），每周一集的网剧（8.14–10.9 共 7 集），荒诞对话 + 类型化人设。
+- **打分**：D1=2（三人皆为类型 archetype，无真人依赖）/ D2=2（情景短剧系列 + Shorts 切片结构）/ D3=1（正片多分钟，Shorts 版 <60s）/ D4=2（2700 万级总量）/ D5=2（系列化 + 大量二创讨论）= **9**
+- **换皮角度**：肥柴分饰"女巫审判三柴"——绿茶 Abigail 柴、老实人 Ruth 柴、暴躁 Goody 柴，审判主题换成"谁偷了我的骨头"，荒诞对话结构照搬。
+
+### 4. 给我孩子起叫"爆笑小朋友"是几个意思？？？（B 站，UP 主：大乾乾是顾乾宇）
+
+- **链接**：https://www.bilibili.com/video/BV1DVaZ6hEEb/（已打开页面验证）
+- **数据**：158.3 万播放 / 12.7 万点赞（页面显示，发布 2026-09-30，一天内爆发，全站排行榜最高第 50 名；点赞率 8%）
+- **内容**：130 秒"XX TV"系列荒诞短剧（标签：UP 主原创剧场 / 剧情演绎 / 荒诞万岁）。该作者"XX TV"系列为固定一人分饰多角格式，历史爆款：773.6 万（BV1db8x6VE73）、建材王哥大闹天宫 700.7 万（BV1uCNq6TEND）、班里总有神人 631.1 万（BV1im7q62E8Y）（UP 主空间 API，order=click）。
+- **打分**：D1=2（一人分饰多角，角色皆功能型）/ D2=2（"XX TV"系列模板：定场情景 → 荒诞升级 → 神反转）/ D3=0（130s，超 90s）/ D4=2 / D5=1 = **7**
+- **换皮角度**：肥柴版"XX TV"系列——如肥柴大闹天宫、给骨头起名字，真人分饰全部替换为肥柴换装分饰（红围巾 + 道具区分角色）。
+
+### 5. @naina_unfiltered111 —— 出生月 meme（Instagram Reels）
+
+- **链接**：https://www.instagram.com/reel/Dc9Wj49z_IC/（链接逐字复制自 TechnoSports 报道原文；**本机打开返回 403，未独立打开验证**）
+- **数据**：820 万播放（TechnoSports 2026-09-13 Reels 日榜）；粉丝数未拿到，破圈比待确认
+- **内容**：分屏对口型 + 图表，"每个出生月份对应一种 XX"的 tag-yourself 机制，评论区 @ 朋友即传播。
+- **打分**：D1=2（对口型 + 图表展示，无身份依赖）/ D2=2（分屏 + 出生月图表模板）/ D3=2 / D4=2 / D5=1（传播机制强，求同款评论未核实）= **9**
+- **换皮角度**：肥柴对口型 + 分屏图表《每个月份出生的柴》——1 月柴囤骨头、7 月柴怕热吐舌头……结尾"@ 你那个 X 月出生的朋友"。
+
+### 6. @harlinkkaur —— 夫妻搞笑 stitch（Instagram Reels）
+
+- **链接**：https://www.instagram.com/reel/Dc6o-7gR7Wk/（链接逐字复制自 TechnoSports 报道原文；**未独立打开验证**）
+- **数据**：约 2100 万播放（TechnoSports 2026-09-12 Reels 日榜，**全场最高**）
+- **内容**：夫妻二人对口型 + 热门 meme 混剪 stitch。数据最强但结构依赖原 meme 素材。
+- **打分**：D1=1（夫妻对口型可换，但笑点部分依赖混剪的原 meme 片段）/ D2=1（stitch 拼盘，结构弱）/ D3=2 / D4=2 / D5=1 = **7**（压线入选，取其数据量级）
+- **换皮角度**：两只肥柴演"夫妻档"对口型，混剪部分替换为肥柴原创小剧场片段，避免版权 meme 素材。
+
+---
+
+## 潜力观察区（未过数据门槛 / 数据待验证 / 趋势级）
+
+- **《躲闪摇究极进化闪身步》（王七叶-）**：829.1 万播放（见《学以乱用》页面相关推荐区），同作者更高播放作品，**BV 链接待补**（UP 主空间 API 限流 2 次未取到）。
+- **第二轮降级项**（链接真实、数据未验证）：Smooth Operator 一人分饰多角、邢三狗《超市老板的反套路》、豪有趣《假如全班都是学霸》、来福来福《一人一城》——均标"数据待验证"，暂不入选。
+- **"Pour It Up" still/switch 双人舞**（TikTok，Rihanna 音频）：一人跳舞一人静止再交换，肥柴双人版 D1=2；趋势级，无单视频硬数据。
+- **My American Girl Doll possession-reveal**（TikTok）：2009 娃娃音频 + 反差 reveal，9 月仍在跑（SocialPilot）；趋势级。
+- **Ancestor Photo Prank**（TikTok）：给父母发"1800 年代祖先"假照片拍真实反应；D1=1（依赖真实长辈反应），趋势级。
+- **Hotel Lobby AI 模板教程**（TikTok，9 月爆发）：AI 生成酒店大堂转场 + 教程带流量；纯 AI 流程参考。
+- **Kiesza《Hideaway》group pile-in**（TikTok）：多人乱入群舞，D1 低（舞蹈向），趋势级。
+- **Taylor Swift countdown**（TikTok）： anticipation 机制可借用到产品宣发；趋势级。
+
+## 落选区
+
+- **@fact_.mania 分屏 reaction**（890 万播放，TechnoSports）：reaction 依赖原事件画面，D1=0，不入选。
+- **POV dating 系列**（TikTok）：数据多为趋势级描述，D1=1（依赖真实约会对象出镜），不入选。
+
+## 本轮缺口（持续）
+
+1. **抖音原生榜单**：仍需登录未覆盖，连续三轮缺口。
+2. **TikTok 原生页面**：未登录；本轮数据依赖 SocialPilot/virlo.ai 等第三方转引，已逐项标注来源。
+3. **Instagram Reel 页面**：本机 fetch 返回 403（2 个入选链接未独立打开验证，URL 逐字复制自 TechnoSports 原文）。
+4. **YouTube 单集播放量**：Shorts/剧集页文本抓取不显示播放数；Abigail 以 USA Today 总量数据入选。
+5. **王七叶 UP 主空间 API**：请求限流（-799）2 次，历史爆款 BV 未取到。
+6. **访问提示**：TikTok / YouTube / Instagram 链接在中国大陆直连可能需要特殊网络；B 站 2 条可直接打开验证。
