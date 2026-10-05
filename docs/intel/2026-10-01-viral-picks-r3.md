@@ -105,4 +105,9 @@
 | #4《起名TV》BV1DVaZ6hEEb | 158.3 万播放 / 12.7 万赞 | **437.9 万播放 / 29.5 万赞**，全站榜最高第 16 名 | 播放 ×2.8——四天内翻近三倍 |
 | #1 "reasons to get a bob" TikTok 链接 | thetab 报道转述 | ⚠️ **链接状态存疑**：报告中的原视频 URL（7647959478297693442）现打开显示为同作者另一条美妆视频（9110 万播放 / 720 万赞），bob 原视频未定位 | 需重新确认 bob 视频的当前有效链接；作者账号 @jocelynmeiere 活跃，内容量级真实 |
 
+**链接复检补记（2026-10-05 当日再查）**：
+- 该 URL 的作者归属确认无误：thetab 原文（2026-07-02，https://thetab.com/2026/07/02/who-is-the-viral-bob-girl-on-tiktok-the-filthy-lyrics-of-fat-papis-freaked-out-explained）引用的正是 `…/video/7647959478297693442`，且今日直接打开该页作者字段为 @jocelynmeiere——与报告中的 URL 一致，非错误链接；显示为其他视频应为 TikTok 客户端渲染/区域跳转行为。
+- 给用户验证的稳妥路径：thetab 文章内嵌的引用卡片，或续作 URL（同作者 bob 趋势延续：https://www.tiktok.com/@jocelynmeiere/video/7656890735513505046，"Have I given enough reasons yet? #bob #freakedout #bobgirl"）。
+- 数据补强：SocialPilot（2026-09-10~24 趋势盘点）确认该 originator 视频近 1800 万播放；newengen（2026-07 TikTok 趋势 #10 "Freaked Out" Bob Trend）给出完整复刻教程（四段式列表 + 卡点位移）——为 G1 拉片提供了现成的机制拆解参考。
+
 复检结论：两个 B 站候选四天内持续爬榜（#2 已千万级），证明"一人分饰多角荒诞小品"格式在国内平台的爆发力真实且持续。TikTok 候选的链接需要重新验证。
